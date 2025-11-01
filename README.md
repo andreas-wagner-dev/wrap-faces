@@ -82,7 +82,8 @@ WrapFaces - erzwingt das MVC-Muster aus einer strikt objektorientierten Perspekt
 
 ## **🚀 DER CODE: Typsicherheit in Aktion**
 
-Höre auf, dich mit XML herumzuschlagen und deine Anwendung um die DTOs herumzubauen. Der 🔎 Fokus liegt auf typsicherem Java-Code.
+* 🚫 Höre auf, dich mit XML herumzuschlagen und deine Anwendung um die DTOs herumzubauen.
+* 🔎 Der Fokus liegt auf typsicherem Java-Code.
 
 **📥 Installation**  
 Die Standard-Maven- oder Gradle-Abhängigkeit wird benötigt:  
