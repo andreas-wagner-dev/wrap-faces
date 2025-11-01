@@ -1,39 +1,39 @@
-# 🎭 WRAPFACES: ONLY FOR DEVELOPERS WHO ARE SERIOUS ABOUT OOP
+# **🎭 WrapFaces**
+
+**WrapFaces** is the **component-oriented **Wrap**per solution for Jakarta Server **Faces** (JSF). The lightweight framework transfers the **object-oriented discipline** of desktop frameworks (e.g., Swing/SWT) to the web.
 
 💥 **If you are serious about Object-Orientation and love the Web?**
-👉 **Then WrapFaces is 👍 exactly the right thing 😎 for you!**
-
-WrapFaces is the **component-oriented wrapper solution** for **Jakarta Server Faces (JSF)**. The lightweight framework transfers the **object-oriented discipline** of desktop frameworks (e.g., Swing/SWT) to the web.
+* 👉 **Then WrapFaces is 👍 exactly the right thing for 😎 you!**
 
 ---
 
-## 🔑 THE 4 ABSOLUTE COMMANDMENTS (KEY FACTS)
+## 🔑 Key Facts - THE 4 ABSOLUTE COMMANDMENTS
 
 WrapFaces is the **manifesto against anemic data containers** and the **technical capitulation to markup**. It enforces the return to **clean software architecture** by adhering to these four fundamental, uncompromising principles:
 
-### 🚫 **NO MARKUP BOILERPLATE**
+### 🚫 **No Markup BOILERPLATE**
 The entire **UI structure and logic** is defined exclusively in **type-safe Java code**. The XHTML serves merely as an **inactive, empty container**.
 
 **Result:** 100% refactorability, compile-time validation, and elimination of XML boilerplate.
 
-### 🧠 **TRUE HEAP STATE**
+### 🧠 **True Heap State**
 The **view state** lives as a **long-lived Java object** in the JVM Heap (View-Scoped). The statelessness of the HTTP protocol is **transparently and completely abstracted**.
 
 **Result:** A **desktop application development experience** on the web; focus on OO logic, not protocol details.
 
-### 🛡️ **MODEL AUTONOMY (SRP Enforcement)**
+### 🛡️ **Model Autonomy (SRP Enforcement)**
 The **Domain Model (Value Object)** takes full responsibility for its own presentation via the `Model::displayFrom()` method. This enforces the **Single Responsibility Principle (SRP)**.
 
 **Result:** An end to **anemic data models**. The presentation belongs to the object being presented.
 
-### ✅ **IMMUTABILITY BINDING**
+### ✅ **Immutability Binding**
 The framework prevents **harmful setter calls** from the UI binding. Instead, a **new, immutable instance** of the Domain Model is created from the UI values via the `map()` mechanism.
 
 **Result:** Guaranteed data integrity and reduction of side effects.
 
 ---
 
-## 🛑 **NO COMPROMISES: "UI of Objects" as Architectural Dogma**
+## 🛑 **No Compromises: "UI of Objects" as Architectural Dogma**
 
 WrapFaces is more than a framework—it is a **manifesto for "UI of Objects"** against anemic data containers and leaky abstractions in the Web UI—a **puristic approach** against the fundamental flaws of data- and markup-centric MVC through consistent, type-safe abstractions.
 
@@ -66,7 +66,7 @@ Complex user interfaces are created through the **composition of smaller, self-c
 
 ---
 
-## 🧠 **THE TRUTH: The Flaws of Traditional MVC**
+## 🧠 **The TRUTH: About traditional layered architectures with MVC etc.**
 
 WrapFaces was developed to **consequently enforce the principles of Object-Orientation (OOP)** and **Domain-Driven Design (DDD)** in the UI layer. It corrects the inherent weaknesses of the traditional, data- and markup-centric MVC pattern:
 
