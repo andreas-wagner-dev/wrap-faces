@@ -4,7 +4,7 @@ WrapFaces ist die objektorientierte Wrapper Lösung für Jakarta Server Faces (J
 **💥 Wenn Du es mit Objektorientierung ernst meinst und Web liebst?** 
 * 👉 Dann ist WrapFaces genau das 👍 Richtige für 😎 Dich!
 
-## **🔑 DIE 4 ABSOLUTEN GEBOTE (KEY FACTS)**
+## **🔑 KEY FACTS** *DIE 4 ABSOLUTEN GEBOTE*
 
 WrapFaces ist das **Manifest** gegen anämische Datencontainer und die **technische Kapitulation** vor Markup. Es erzwingt die Rückkehr zu sauberer Software-Architektur durch die Einhaltung dieser vier fundamentalen, **kompromisslosen** Prinzipien:
 
