@@ -3,15 +3,15 @@
 **WrapFaces** is the **component-oriented **Wrap**per solution for Jakarta Server **Faces** (JSF). The lightweight framework transfers the **object-oriented discipline** of desktop frameworks (e.g., Swing/SWT) to the web.
 
 💥 **If you are serious about Object-Orientation and love the Web?**
-* 👉 **Then WrapFaces is 👍 exactly the right thing for 😎 you!**
+* 👉 **Then 🎭 WrapFaces is 🎯 exactly the 👍 right 🎠 Horse for 😎 you!**
 
 ---
 
-## 🔑 Key Facts - THE 4 ABSOLUTE COMMANDMENTS
+## 🔑 Key Facts
 
 WrapFaces is the **manifesto against anemic data containers** and the **technical capitulation to markup**. It enforces the return to **clean software architecture** by adhering to these four fundamental, uncompromising principles:
 
-### 🚫 **No Markup BOILERPLATE**
+### 🚫 **No Markup Boilerplate**
 The entire **UI structure and logic** is defined exclusively in **type-safe Java code**. The XHTML serves merely as an **inactive, empty container**.
 
 **Result:** 100% refactorability, compile-time validation, and elimination of XML boilerplate.
@@ -80,7 +80,7 @@ WrapFaces was developed to **consequently enforce the principles of Object-Orien
 
 ---
 
-## 🛠️ **THE PURIST'S TOOLS**
+## 🛠️ **The Purist's Tools**
 
 WrapFaces provides the necessary tools to enforce a **clean object-oriented architecture**:
 
@@ -113,7 +113,7 @@ WrapFaces enforces the **MVC pattern** from a **strictly object-oriented perspec
 
 ---
 
-## 🚀 **THE CODE: Type Safety in Action**
+## 🚀 **The Code: Type Safety in Action**
 
 Stop messing around with XML and building your application around DTOs. The 
 * 🔎 **focus is on type-safe Java code**.
@@ -188,9 +188,11 @@ public Form displayFrom() {
 ```
 
 
-### ⚙️ IMPLEMENTATION GUIDE: The Base Class as Gatekeeper
+## ⚙️ The Framework: The Implementation Guide
+
 **WrapFaces** enforces discipline through the clear separation of technical inheritance (JSF) and application-specific logic (Hooks). 
 * The wrapper uses the Decorator Pattern to inject logic surgically.
+
 **Purpose of the Decorator**
 * The wrapper class encloses the native JSF component and serves as a type-safe decorator, offering clear, ```overridable entry points``` (Hooks) into the rendering process.
 
